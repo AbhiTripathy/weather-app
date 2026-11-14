@@ -1,0 +1,13 @@
+{
+  "name": "weather-forecast-app",
+  "version": "1.0.0",
+  "description": "API-Driven Weather Forecast Application with Express.js Backend Proxy and React Frontend",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  },
+  "author": "",
+  "license": "ISC"
+}
